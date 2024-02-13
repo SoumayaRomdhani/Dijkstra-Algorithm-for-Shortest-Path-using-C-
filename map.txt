@@ -1,0 +1,29 @@
+                                                                    
+                            
+                               EEEEEEEEE    EE       1)Bizerte      || 2)Beja 
+                             E 2 |__1_____ EEE       3)Nabeul       || 4)Manouba
+                            E ___|4|5|6|7|3 E        5)Tunis        || 6)Ariana 
+                             E 14|  |    E           7)Ben_Arous    || 8)Kef   
+                            E__8_|_9|_10 E           9)Zaghouan     || 10)Siliana
+                            E     |      E           11)Sousse      || 12)Monastir
+                             E 11 |   12  E          13)Mahdia      || 14)Jendouba
+                             E____|________E         15)Kairouan    || 16)Kasserine
+                             E     |       E         17)Sidi_Bouzid || 18)Sfax
+                            E    13|    E            19)Gafsa       || 20)Tozeur
+                            E______|__ E             21)Gabes       || 22)Kebili 
+                          E 16  | 15  E              23)Medenine    || 24)Tataouine
+                        E_______|____ E             
+                        E   17  | 18| E           
+                        E_______|___|  E          
+                         E          |    |  E      
+                           E___19___|21  |    E    
+                            E       |    | 23  E   
+                            E _20___|____|     E   
+                              E    22    |   E    
+                                E_________E        
+                                 E       E         
+                                 E 24  E           
+                                  E  E            
+                                  E E            
+                                  EE          
+                                          

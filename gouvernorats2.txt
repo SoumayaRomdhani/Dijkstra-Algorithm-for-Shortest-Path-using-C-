@@ -1,0 +1,49 @@
+24
+Bizerte 21 6 1956 568219 2750 17
+Beja 21 6 1956 303032 3740 12
+Nabeul 21 6 1956 787920 2840 27
+Manouba 31 7 2000 379518 1137 10
+Tunis 21 6 1956 1056247 288 8
+Ariana 3 12 1983 576088 482 6
+Ben_Arous 3 12 1983 631842 761 13
+Kef 21 6 1956 243156 5081 15
+Zaghouan 0 0 1976 176 945 2820 8
+Siliana 5 6 1974 223087 4642 12
+Sousse 21 6 1956 674971 2669 18
+Monastir 5 6 1974 548828 1024 31
+Mahdia 5 6 1974 410812 2878 18
+Jendouba 21 6 1956 401477 3100 14
+Kairouan 21 6 1956 570559 6712 19
+Kasserine 21 6 1956 439243 8260 19
+Sidi_Bouzid 0 0 1973 429912 7400 17
+Sfax 21 6 1956 955421 7545 23
+Gafsa 21 6 1956 337331 7807 13
+Tozeur 21 6 1956 107912 5593 6
+Gabes 21 6 1956 374300 7166 16
+Kebili 0 0 1981 156961 22454 8
+Medenine 21 6 1956 479520 9167 10
+Tataouine 2 3 1981 149453 38889 7
+3 Beja 103 Manouba 82 Ariana 69
+5 Bizerte 103 Manouba 108 Zaghouan 115 Siliana 113 Jendouba 54
+3 Ben_Arous 10 Zaghouan 64 Sousse 109
+6 Bizerte 82 Zaghouan 64 Beja 108 Tunis 15 Ariana 13 Ben_Arous 21
+3 Ariana 12 Ben_Arous 10 Manouba 15
+3 Manouba 13 Tunis 12 Bizerte 69
+4 Nabeul 10 Zaghouan 11 Tunis 10 Manouba 21
+3 Siliana 71 Jendouba 63 Kasserine 130
+6 Ben_Arous 11 Manouba 64 Sousse 103 Kairouan 116 Siliana 92 Beja 115
+7 Sidi_Bouzid 165 Beja 113 Jendouba 98 Zaghouan 92 Kairouan 145 Kef 71 Kasserine 145
+5 Nabeul 109 Kairouan 55 Zaghouan 103 Monastir 21 Mahdia 60
+2 Mahdia 48 Sousse 21
+4 Monastir 48 Sfax 130 Kairouan 103 Sousse 60
+3 Beja 54 Kef 63 Siliana 98
+6 Zaghouan 116 Siliana 145 Sidi_Bouzid 120 Sousse 55 Mahdia 103 Sfax 138
+4 Kef 130 Siliana 145 Sidi_Bouzid 73 Gafsa 110
+6 Gabes 176 Gafsa 113 Kasserine 73 Sfax 132 Kairouan 120 Siliana 165
+4 Sidi_Bouzid 132 Gabes 159 Mahdia 130 Kairouan 138
+5 Tozeur 96 Gabes 173 Kebili 106 Sidi_Bouzid 113 Kasserine 119
+2 Gafsa 96 Kebili 96
+4 Sfax 159 Medenine 66 Kebili 118 Gafsa 173 Sidi_Bouzid 176
+5 Gafsa 106 Tozeur 96 Gabes 118 Medenine 194 Tataouine 245
+3 Gabes 66 Kebili 194 Tataouine 52
+2 Medenine 52 Kebili 245
